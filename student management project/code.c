@@ -13,6 +13,7 @@ int main() {
 
     do {
         printf("\n1. Add Student\n2. Display All\n3. Search\n4. Exit\n");
+        printf("Enter your choice: ");
         scanf("%d", &choice);
 
         if(choice==1) {
