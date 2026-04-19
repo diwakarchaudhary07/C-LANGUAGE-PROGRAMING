@@ -122,3 +122,13 @@ int main() {
 
     return 0;
 }
+
+
+
+
+
+// how to run this project 
+steps:
+1.>student_info_project.c
+2.>gcc student_info_project.c -o student_info_project
+3.>./student_info_project
